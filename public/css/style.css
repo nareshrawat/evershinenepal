@@ -1,0 +1,73 @@
+.owl-item{
+    /*margin-right: 10px;*/
+    box-shadow: 0 0 6px rgba(35, 173, 278, 1);
+}
+
+.alert-info{
+    background-color: white !important;
+    color: #31708f !important;
+    border: none;
+}
+.panel {
+    border: none;
+}
+.product-dashboard{
+    margin-top: -30px;
+}
+
+.skin-blue .main-header .logo, 
+.skin-blue .main-header .navbar{
+   /* background-color: #e7e7e7;
+    color: #795548;*/
+}
+.alert-success{
+    background-color: none;
+    color: none;
+    border-color: none;
+}
+.modal-footer{
+    padding-top: 60%;
+}
+.content-header .fa{
+	padding-right: 5px;
+}
+.content-header h1 small:hover{
+	text-decoration: underline;
+}
+.pagination{
+	margin: 20px 0 0 40%;
+}
+.set-featured-image{
+    padding-left: 0px;
+}
+.set-featured-image .featured-image{
+	margin-left: 0px;
+}
+.form-control{
+	border-radius: 4px;
+}
+.quick-view{
+    background-color: rgba(0, 192, 239, 0.32);
+    width: 95%;
+    margin: auto;
+    text-align: center;
+}
+.load-quick-view-modal{
+    
+    padding: 4px 4px;
+    width: 95%;
+    color: white;
+    border-radius: 0px;
+    border: none;
+}
+.pull-right{
+  padding-top: 3px;
+}
+.btn-primary, .btn-danger{
+    margin-top: 4%;
+}
+
+.quick-view-price{
+    width: 95%;
+    margin: 20%;
+}
